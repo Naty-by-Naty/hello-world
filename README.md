@@ -1,6 +1,4 @@
 # hello-world
-My first repository
+My hello world
 
-Pas facile cette reconversion!!! 
-mais on vatravailler dur pour y arriver ;)
-et bientôt on partira vivre cette aventure au soleil!
+deuxième essai, on a certainement deconné sur le premier test :)
